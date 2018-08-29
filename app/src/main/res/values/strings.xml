@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name">iamrich</string>
-
-    <string name="tittle">I am rich!</string>
+    <string name="app_name">Dice-Nested-Completed</string>
+    <string name = "button_text">Roll</string>
 </resources>
